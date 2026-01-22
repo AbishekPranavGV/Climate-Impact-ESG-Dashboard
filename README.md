@@ -21,5 +21,5 @@ A real-time monitoring dashboard that integrates **Environmental, Social, and Go
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Climate-Impact-ESG-Dashboard.git](https://github.com/AbishekPranavGV/Climate-Impact-ESG-Dashboard.git)
+   git clone [https://github.com/AbishekPranavGV/Climate-Impact-ESG-Dashboard.git](https://github.com/AbishekPranavGV/Climate-Impact-ESG-Dashboard.git)
    cd Climate-Impact-ESG-Dashboard
