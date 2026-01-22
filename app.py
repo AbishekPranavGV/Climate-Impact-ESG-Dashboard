@@ -1,3 +1,12 @@
+import os
+from dotenv import load_dotenv
+
+# This looks for a .env file and loads the variables into the environment
+load_dotenv()
+
+# Now you can access it securely
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
